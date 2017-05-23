@@ -6,6 +6,13 @@ body{
 border-style: white;
 }
 
-#klatka{position: relative;}
+#klatka{position: relative;
+background-color: white;}
 
 .kwadrat{position: absolute;}
+
+#czerwony{
+    background-color: red;
+    top: 0;
+    left: 0;
+}
