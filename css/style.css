@@ -23,7 +23,10 @@ body {margin: 0;}
     position: absolute;
     width: 100px;
     height: 100px;
-    border-radius: 60px
+    border-radius: 60px;
+    top: 50px;
+    left: 50px;
+    
 }
 
 #czerwony {background-color: red;}
@@ -34,9 +37,9 @@ body {margin: 0;}
 #pomaranczowy{background-color: orange;}
 #fioletowy{background-color: purple;}
 #szary{background-color: gray;}
-#rozowy{background-color: deeppink;}
+#rozowy{background-color: pink;}
 
-#rozowe {background-color: deeppink;}
+#rozowe {background-color: pink;}
 #szare {background-color: gray;}
 #fioletowe {background-color: purple;}
 #zielone{background-color: green;}
