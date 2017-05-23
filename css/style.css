@@ -21,23 +21,14 @@ body {margin: 0;}
     top: 50px;
     left: 50px;}
 
-#czerwony {background-color: red;}
-#niebieski {background-color: blue;}
-#zielony {background-color: green;}
-#zolty{background-color: yellow;}
-#czarny{background-color: black;}
-#pomaranczowy{background-color: orange;}
-#fioletowy{background-color: purple;}
-#szary{background-color: gray;}
-#rozowy{background-color: pink;}
+#czerwony, #czerwone{background-color: red;}
+#niebieski, #niebieskie{background-color: blue;}
+#zielony, #zielone{background-color: green;}
+#zolty, #zolte{background-color: yellow;}
+#czarny, #czarne{background-color: black;}
+#pomaranczowy, #pomaranczowe{background-color: orange;}
+#fioletowy, #fioletowe{background-color: purple;}
+#szary, #szare{background-color: gray;}
+#rozowy, #rozowe{background-color: pink;}
 
-#rozowe {background-color: pink;}
-#szare {background-color: gray;}
-#fioletowe {background-color: purple;}
-#zielone{background-color: green;}
-#czerwone{background-color: red;}
-#niebieskie{background-color: blue;}
-#pomaranczowe{background-color: orange;}
-#zolte{background-color: yellow;}
-#czarne{background-color: black;}
 
