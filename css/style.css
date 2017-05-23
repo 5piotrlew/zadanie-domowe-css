@@ -1,7 +1,7 @@
 body {margin: 0;}
 
-.obramowanie {border-style: groove;
-border-color: white;}
+.obramowanie {border-style: solid;
+    border-color: white;}
 
 #klatka {
     position: relative;
