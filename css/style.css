@@ -1,18 +1,25 @@
-body{
-    margin: 0;
+body {margin: 0;}
+
+.obramowanie {border-style: groove;
+border-color: white;}
+
+#klatka {
+    position: relative;
+    background-color: white;
 }
 
-.obramowanie{
-border-style: white;
+.grzad {top: 0;}
+.srzad {top: 200px;}
+.drzad {top: 400px;}
+.lstr{left: 0;}
+.sstr{left: 200px;}
+.pstr{left: 400px}
+.kwadrat {
+    position: absolute;
+    width: 200px;
+    height: 200px;
 }
 
-#klatka{position: relative;
-background-color: white;}
-
-.kwadrat{position: absolute;}
-
-#czerwony{
-    background-color: red;
-    top: 0;
-    left: 0;
-}
+#czerwony {background-color: red;}
+#niebieski {background-color: blue;}
+#zielony {b-c}
