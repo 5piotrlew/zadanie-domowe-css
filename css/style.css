@@ -1,11 +1,5 @@
 body {margin: 0;}
-
-
-#klatka {
-    position: relative;
-    background-color: white;
-}
-
+#klatka {position: relative;}
 .grzad {top: 0;}
 .srzad {top: 200px;}
 .drzad {top: 400px;}
@@ -17,17 +11,14 @@ body {margin: 0;}
     width: 200px;
     height: 200px;
     border-style: solid;
-    border-color: white;
-}
+    border-color: white;}
 .kolko{
     position: absolute;
     width: 100px;
     height: 100px;
     border-radius: 60px;
     top: 50px;
-    left: 50px;
-    
-}
+    left: 50px;}
 
 #czerwony {background-color: red;}
 #niebieski {background-color: blue;}
